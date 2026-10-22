@@ -1,4 +1,4 @@
-# Team No #7 — Semantic File Search Agent
+# Team No #7 — Semantic File Search Agent - Satvik Sinha and Kshitij
 File System & Storage Agents
 
 7. Semantic File Search Agent
